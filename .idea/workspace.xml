@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="761bd24b-5375-43aa-81a5-a5aca96299bd" name="Default Changelist" comment="" />
+    <list default="true" id="761bd24b-5375-43aa-81a5-a5aca96299bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/spoljo/nfa/dfa/DFA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/dfa/DfaTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/DFA.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/Minimizer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/dfa/DfaTest.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,74 +27,99 @@
     <session id="-301704970">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="7" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="7" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4508" />
+          <entry key="java" value="8253" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4508" />
+          <entry key="JAVA" value="8253" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/NfaRegexApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="187">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/DFA.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+            <state relative-caret-position="289">
+              <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1112#1113#0" expanded="true" />
-                <element signature="e#1147#1148#0" expanded="true" />
+                <element signature="e#818#819#0" expanded="true" />
+                <element signature="e#849#850#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#944#945#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/Minimizer.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NFATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/dfa/DfaTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Fragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+            <state relative-caret-position="289">
+              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#265#266#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#502#503#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Paren.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -298,6 +330,7 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$" value="6144011874065" />
+        <entry key="$PROJECT_DIR$/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/build.gradle" value="2478967137" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="566444372" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1282894751" />
@@ -492,6 +525,16 @@
         <option value="$PROJECT_DIR$/src/test/java/dfa/DfaTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/Minimizer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/DFA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/State.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/Fragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/Digraph.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/NFA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Paren.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/State.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NFATest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Frag.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Fragment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java" />
       </list>
     </option>
   </component>
@@ -509,8 +552,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -551,38 +592,25 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="nfa" type="462c0819:PsiDirectoryNode" />
-              <item name="dfa" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="nfa-regex" type="b2602c69:ProjectViewProjectNode" />
               <item name="nfa-regex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="nfa-regex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nfa-regex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="nfa-regex" type="b2602c69:ProjectViewProjectNode" />
-              <item name="nfa-regex" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="dfa" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536017593003" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536430613025" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -601,7 +629,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.NFATest">
+    <configuration name="NFA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spoljo.nfa.model.NFA" />
+      <module name="nfa-regex_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spoljo.nfa.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DfaTest.DfaTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="nfa-regex_test" />
       <extension name="coverage">
@@ -618,8 +659,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NFATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nfa-regex_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NFATest.NFAValidate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="nfa-regex_test" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NFATest" />
+      <option name="METHOD_NAME" value="NFAValidate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.DfaTest.DfaTest1" />
+      <item itemvalue="Application.NFA" />
+      <item itemvalue="JUnit.NFATest.NFAValidate" />
+      <item itemvalue="JUnit.NFATest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.NFATest" />
+        <item itemvalue="JUnit.NFATest.NFAValidate" />
+        <item itemvalue="Application.NFA" />
         <item itemvalue="JUnit.DfaTest.DfaTest1" />
       </list>
     </recent_temporary>
@@ -638,35 +706,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 32m 02s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 18h 54m 59s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 34m 35s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 04m 38s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 34m 46s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 04m 42s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 35m 49s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 04m 50s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 36m 06s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 05m 08s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 36m 09s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 08m 18s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 36m 11s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest_NFAValidate - 2018.09.08 at 19h 08m 56s.xml">
+      <configuration name="NFATest.NFAValidate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 36m 13s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest - 2018.09.08 at 19h 30m 39s.xml">
+      <configuration name="NFATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 36m 43s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest - 2018.09.08 at 19h 32m 25s.xml">
+      <configuration name="NFATest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DfaTest_DfaTest1 - 2018.09.04 at 00h 53m 41s.xml">
-      <configuration name="DfaTest.DfaTest1" configurationId="JUnit" />
+    <history-entry file="NFATest - 2018.09.08 at 19h 52m 47s.xml">
+      <configuration name="NFATest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -682,89 +750,242 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17857143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18336888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" weight="0.329718" />
-      <window_info anchor="bottom" id="Terminal" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.30911064" />
-      <window_info anchor="bottom" id="Messages" weight="0.329718" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.30911064" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329718" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java</url>
+          <line>141</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java</url>
+          <line>202</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java</url>
+          <line>134</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfa/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/dfa/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/State.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/Minimizer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/State.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/dfa/DfaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/DFA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1112#1113#0" expanded="true" />
+            <element signature="e#1152#1153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+          <folding>
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#345#346#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#438#439#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#513#514#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#661#662#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/Fragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/Digraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding>
+            <element signature="e#2846#2855#0" expanded="true" />
+            <element signature="e#3192#3193#0" expanded="true" />
+            <element signature="e#3216#3217#0" expanded="true" />
+            <element signature="e#3364#3365#0" expanded="true" />
+            <element signature="e#3388#3389#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="330" selection-start-line="330" selection-end-line="330" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/a6c32b40bf3d76eca54e3c601e5d1470c86fcdfa/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/State.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#550#551#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/NfaRegexApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="187">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/dfa/DfaTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Fragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="37" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        <state relative-caret-position="289">
+          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/Paren.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NFATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/Minimizer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/model/NFA.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/spoljo/nfa/dfa/DFA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="33" column="26" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        <state relative-caret-position="289">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1112#1113#0" expanded="true" />
-            <element signature="e#1147#1148#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
           </folding>
         </state>
       </provider>
